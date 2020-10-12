@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HelloWorldAndroid</string>
+
+    <string name="nombre_label">Give me your name</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="saludo">Greeting</string>
+    <string name="salir">Exit</string>
+
+    <string name="hola">Lets say all together Hello world</string>
+    <string name="regresar">Back</string>
+    <string name="nombre_hint">Write your name here</string>
+    <string name="apellidoPaterno_hint">Write your lastname here</string>
+    <string name="apellidoMaterno_hint">Write your mother\'s lastname here</string>
+    <string name="materno_label">Write your maternal surname</string>
+    <string name="paterno_label">Write your paternal last name</string>
+</resources>

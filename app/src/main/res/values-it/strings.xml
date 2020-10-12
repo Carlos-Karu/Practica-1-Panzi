@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CiaoMondoAndroid</string>
+
+    <string name="nombre_label">Scrivi il tuo nome</string>
+    <string name="bienvenido">Benvenuto</string>
+    <string name="saludo">Saluto</string>
+    <string name="salir">Esci</string>
+
+    <string name="hola">Diciamo tutti insieme Ciao Mondo</string>
+    <string name="regresar">Ritornare</string>
+    <string name="nombre_hint">Scrivi qui il tuo nome</string>
+    <string name="apellidoPaterno_hint">Scrivi qui il tuo cognome paterno</string>
+    <string name="apellidoMaterno_hint">Scrivi qui il tuo cognome materno</string>
+    <string name="materno_label">Scrivi il tuo cognome materno</string>
+    <string name="paterno_label">Scrivi il tuo cognome paterno</string>
+</resources>

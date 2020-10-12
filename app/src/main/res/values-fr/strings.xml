@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalutMondeAndroid</string>
+
+    <string name="nombre_label">Écrive ton nom</string>
+    <string name="bienvenido">Bienvenue</string>
+    <string name="saludo">Salutation</string>
+    <string name="salir">Sortir</string>
+
+    <string name="hola">Disons tous ensemble Salut monde</string>
+    <string name="regresar">Rendre</string>
+    <string name="nombre_hint">Écris ton nom içi</string>
+    <string name="apellidoMaterno_hint">Écrivez votre nom maternel ici</string>
+    <string name="apellidoPaterno_hint">Écrivez votre nom de famille paternel ici</string>
+    <string name="paterno_label">" Écrivez votre nom de famille paternel"</string>
+    <string name="materno_label">" Écrivez votre nom maternel"</string>
+</resources>

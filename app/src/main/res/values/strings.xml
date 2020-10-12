@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HolaMundoAndroid</string>
+
+    <string name="nombre_label">Escribe tu nombre</string>
+    <string name="nombre_hint">Escribe aqui tu nombre</string>
+
+    <string name="paterno_label">Escribe tu apellido paterno</string>
+    <string name="apellidoPaterno_hint">Escribe aquí tu apellido paterno</string>
+
+    <string name="materno_label">Escribe tu apellido materno</string>
+    <string name="apellidoMaterno_hint">Escribe aquí tu apellido materno</string>
+
+    <string name="bienvenido">Bienvenido</string>
+    <string name="saludo">Saludo</string>
+    <string name="salir">Salir</string>
+
+    <string name="hola">Digamos todos juntos Hola Mundo</string>
+    <string name="regresar">Regresar</string>
+</resources>
